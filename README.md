@@ -3,8 +3,8 @@
 
 - [Общий план](https://docs.google.com/document/d/1KaRhmXIW_ins6PGpIICbJSfLhYowoarZSOvRUxJLYZU) PR-активностей
 - [Подробный план](https://docs.google.com/spreadsheets/d/1c-ZMxOO2uVWeCjPhBDD5RFwy5PfgPyz-LabI8ND7CrQ) PR-активностей
-- [Таблица по каналам и способам обращения к ЦА игры](https://docs.google.com/spreadsheets/d/1GBBp9fLdJK2mlGq83qoPAY4ycgPQr73US_laGjNCqrs)
-- [Таблица отслеживания активностей и полученных результатов](https://docs.google.com/spreadsheets/d/1GBBp9fLdJK2mlGq83qoPAY4ycgPQr73US_laGjNCqrs/edit?gid=1034367155#gid=1034367155)
+- [Таблица по каналам и способам обращения к ЦА игры](https://docs.google.com/spreadsheets/d/1evLG-wjCHU3a1MmiiT9rKyx4Qche616U-dYdnqZ8H18)
+- [Таблица отслеживания активностей и полученных результатов](https://docs.google.com/spreadsheets/d/1GBBp9fLdJK2mlGq83qoPAY4ycgPQr73US_laGjNCqrs)
 - [Чеклист на день релиза](https://docs.google.com/document/d/10yA3M7nOtty0MIHo4jxhxPDjwkMYtQHrh2U2Vi-D3Yw)
 - [ТЗ на ключевой арт в Steam](https://docs.google.com/document/d/11gR7MctnwvL9tZVlkvYU6Od4UAuNU_RZF8VLzVOcVIE/edit?tab=t.0#heading=h.kqieig3nauvl)
 
