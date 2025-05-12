@@ -1,4 +1,4 @@
-### Документы и материалы, разработанные в ходе работы по продвижению карточного рогалика [Crawlyard](https://store.steampowered.com/app/1637560/Crawlyard/) 
+### Материалы по продвижению карточного рогалика [Crawlyard](https://store.steampowered.com/app/1637560/Crawlyard/) 
 Разработка игры, к сожалению, сейчас заморожена на неопределенное время
 
 - [Общий план](https://docs.google.com/document/d/1KaRhmXIW_ins6PGpIICbJSfLhYowoarZSOvRUxJLYZU) PR-активностей
